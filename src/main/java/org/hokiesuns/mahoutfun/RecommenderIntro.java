@@ -38,7 +38,7 @@ public class RecommenderIntro {
 //		ch2Neighborhoods();
 	}
 	
-	public static void ch2() throws Exception 
+	public static void ch2UserItem() throws Exception 
 	{
 		RandomUtils.useTestSeed();
 		
@@ -76,7 +76,7 @@ public class RecommenderIntro {
 //		}
 	}
 	
-	public static void ch2Kiji() throws Exception 
+	public static void ch2KijiUserItem() throws Exception 
 	{
 		RandomUtils.useTestSeed();
 		
